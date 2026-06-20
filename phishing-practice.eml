@@ -1,0 +1,18 @@
+From: "Bank Security Team" <security@secure-bankalert.com>
+To: you@example.com
+Subject: Urgent: Your Account Has Been Locked
+Reply-To: support@secure-bankalert-help.com
+Return-Path: bounce@totally-different-domain.ru
+Date: Fri, 20 Jun 2026 09:00:00 +0000
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account has been temporarily locked for your security.
+
+Click here to verify your identity and restore access:
+http://secure-bankalert.com.verify-now.ru/login
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Regards,
+Bank Security Team
